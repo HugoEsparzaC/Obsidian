@@ -1,0 +1,45 @@
+# Listas enlazadas simples (recursivo)
+## void insertar_final(nodo_t **, int);
+```c
+void insertar_final(nodo_t **cab, int dato){
+    nodo_t *nodo = crea_nodo();
+    nodo->info = dato;
+    if(*cab == NULL){
+        *cab = nodo;
+        return;
+    }
+    else{
+        insertar_final(&(*cab)->sig, dato);
+    }
+}
+```
+## void eliminar_final(nodo_t **);
+```c
+void eliminar_final(nodo_t **cab){
+    if(*cab == NULL){
+        return;
+    }
+    else if((*cab)->sig == NULL){
+        nodo_t *tmp = *cab;
+        free(tmp);
+        *cab = NULL;
+        return;
+    }
+    else{
+        eliminar_final(&(*cab)->sig);
+    }
+}
+```
+## void liberar_lista(nodo_t **);
+```c
+void liberar_lista(nodo_t **cab){
+    if(*cab == NULL){
+        return;
+    }
+    else{
+        liberar_lista(&((*cab)->sig));
+        free(*cab);
+    }
+    *cab = NULL;
+}
+```

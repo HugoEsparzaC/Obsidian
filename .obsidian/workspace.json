@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "cc9ae5678121b487",
+    "type": "split",
+    "children": [
+      {
+        "id": "29adf8238458b875",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82af8a9913f19ccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programación/C/Listas enlazadas simples (iterativo).c.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bcee29dd6c43a9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd1f773c65901368",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "408f31f379b4b139",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ed98aadafb99992",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fbc29789b76fc364",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 362.5
+  },
+  "right": {
+    "id": "a62e89a492d357f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2787316b3859ba6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "597fc76ed8b112ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programación/C/Listas enlazadas simples (iterativo).c.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c0dfd8ba0e692c52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programación/C/Listas enlazadas simples (iterativo).c.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0c7e19d393bc44e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4447a705793f08e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programación/C/Listas enlazadas simples (iterativo).c.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217
+  },
+  "active": "82af8a9913f19ccc",
+  "lastOpenFiles": [
+    "Lenguajes de Programación/2022 - 11 - 03 Jueves.Leng_Prog.md",
+    "Finanzas Personales/Libros/Pequeño cerdo capitalista/1. Pequeño Cerdo Capitalista.md",
+    "Programación/C/Listas enlazadas simples (iterativo).c.md",
+    "Programación/C++/4. Presicion de decimales.cpp.md",
+    "Programación/C++/4.a Número random.cpp.md",
+    "Programación/C++/3. cout & cin.cpp.md",
+    "Programación/C++/2. Variables.cpp.md",
+    "Programación/C++/7. while.cpp.md",
+    "Programación/C++/6. Switch.cpp.md",
+    "Programación/Python/Listas.py.md"
+  ]
+}
