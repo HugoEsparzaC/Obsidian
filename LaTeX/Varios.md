@@ -30,3 +30,14 @@ Comillas dobles: ``texto".
 ### Caracteres especiales
 % # & $
 \% \# \& \$
+### Font Sizes
+    1.  \tiny
+    2.  \scriptsize
+    3.  \footnotesize
+    4.  \small
+    5.  \normalsize
+    6.  \large
+    7.  \Large
+    8.  \LARGE
+    9.  \huge
+    10. \Huge
