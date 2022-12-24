@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:.cpp",
@@ -19,6 +19,13 @@
       "color": {
         "a": 1,
         "rgb": 3386086
+      }
+    },
+    {
+      "query": "file:.py",
+      "color": {
+        "a": 1,
+        "rgb": 1109260
       }
     }
   ],
