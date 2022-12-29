@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6e032a3cec0cc4a0",
+        "id": "5de9b1044ca3fdf0",
         "type": "tabs",
         "children": [
           {
-            "id": "26d4e91ce650a655",
+            "id": "d23b8ccbbd1f524e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/4.2 Colas.c.md",
+                "file": "C/7.1.2 Listas enlazadas simples (recursivo).c.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/4.2 Colas.c.md",
+                "file": "C/7.1.2 Listas enlazadas simples (recursivo).c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/4.2 Colas.c.md",
+                "file": "C/7.1.2 Listas enlazadas simples (recursivo).c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/4.2 Colas.c.md"
+                "file": "C/7.1.2 Listas enlazadas simples (recursivo).c.md"
               }
             }
           }
@@ -149,17 +149,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "26d4e91ce650a655",
+  "active": "d23b8ccbbd1f524e",
   "lastOpenFiles": [
-    "C/4.1 Pilas.c.md",
-    "C/4.2 Colas.c.md",
-    "C/3.3 Arreglos de registros.c.md",
-    "C/2.6.2 Burbuja Optimizada.c.md",
-    "C/2.6.3 Ordenación por selección.c.md",
-    "C/2.6.4 Ordenación por inserción.c.md",
-    "C/3. Registros.c.md",
-    "C/3.1 Registros simples.c.md",
-    "C/3.2 Registros anidados.c.md",
-    "C/4. Tipos de datos abstractos.c.md"
+    "C/7.1.1 Listas enlazadas simples (iterativo).c.md",
+    "C/7.1 Listas simples.c.md",
+    "LaTeX/1. Portada.md",
+    "LaTeX/Matemáticas.md",
+    "C++/10. Vectores o arrays.cpp.md",
+    "C++/Untitled.md",
+    "C++/Untitled 2.md",
+    "C++/Untitled 3.md",
+    "C++/Untitled 1.md",
+    "Tesis y articulos/4. Introducción.md"
   ]
 }
