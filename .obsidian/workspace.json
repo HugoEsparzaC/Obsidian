@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93e5cbcdd0f454dc",
+            "id": "7a427b99e22e8a3d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C/6.16 Actividad Arreglo dinamico con apuntaor generico.c.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C/6.16 Actividad Arreglo dinamico con apuntaor generico.c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C/6.16 Actividad Arreglo dinamico con apuntaor generico.c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C/6.16 Actividad Arreglo dinamico con apuntaor generico.c.md"
+              }
             }
           }
         ]
@@ -141,17 +149,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "93e5cbcdd0f454dc",
+  "active": "7a427b99e22e8a3d",
   "lastOpenFiles": [
+    "C/6.11 Apuntadores por referencia.c.md",
+    "C/6.16 Actividad Arreglo dinamico con apuntaor generico.c.md",
     "C/7.2.2 Colas con listas enlazadas simples.c.md",
     "C/0. Lenguaje C.c.md",
     "C/6. Apuntadores.c.md",
-    "C/6.11 Apuntadores por referencia.c.md",
     "C/1. Fundamentos de un lenguaje de alto nivel.c.md",
     "C/2.6.5 Quicksort.c.md",
     "C/2.6.4 Ordenación por inserción.c.md",
     "C/7.2 Pilas, colas y conjuntos con listas.c.md",
-    "C/7. Listas enlazadas.c.md",
-    "C/7.2.1 Pilas con listas enlazadas simples.c.md"
+    "C/7. Listas enlazadas.c.md"
   ]
 }
