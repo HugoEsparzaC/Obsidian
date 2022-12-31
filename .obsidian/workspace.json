@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5de9b1044ca3fdf0",
+        "id": "c506880170057882",
         "type": "tabs",
         "children": [
           {
-            "id": "d23b8ccbbd1f524e",
+            "id": "627eb4a7cbac0c92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/7.1.2 Listas enlazadas simples (recursivo).c.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/7.1.2 Listas enlazadas simples (recursivo).c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/7.1.2 Listas enlazadas simples (recursivo).c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C/7.1.2 Listas enlazadas simples (recursivo).c.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,17 +141,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d23b8ccbbd1f524e",
+  "active": "627eb4a7cbac0c92",
   "lastOpenFiles": [
+    "C/7.2 Pilas, colas y conjuntos con listas.c.md",
+    "C/0. Lenguaje C.c.md",
+    "C/7. Listas enlazadas.c.md",
+    "C/7.2.1 Pilas con listas enlazadas simples.c.md",
+    "C/7.2.2 Colas con listas enlazadas simples.c.md",
+    "Python/Programación Orientada a Objetos.py.md",
+    "Python/Calculadora.py.md",
     "C/7.1.1 Listas enlazadas simples (iterativo).c.md",
-    "C/7.1 Listas simples.c.md",
-    "LaTeX/1. Portada.md",
-    "LaTeX/Matemáticas.md",
-    "C++/10. Vectores o arrays.cpp.md",
-    "C++/Untitled.md",
-    "C++/Untitled 2.md",
-    "C++/Untitled 3.md",
-    "C++/Untitled 1.md",
-    "Tesis y articulos/4. Introducción.md"
+    "C/7.1.2 Listas enlazadas simples (recursivo).c.md",
+    "C/7.1 Listas simples.c.md"
   ]
 }
