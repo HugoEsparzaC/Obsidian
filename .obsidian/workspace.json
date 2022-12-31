@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c506880170057882",
+        "id": "f223372a86ebc605",
         "type": "tabs",
         "children": [
           {
-            "id": "627eb4a7cbac0c92",
+            "id": "93e5cbcdd0f454dc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -141,17 +141,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "627eb4a7cbac0c92",
+  "active": "93e5cbcdd0f454dc",
   "lastOpenFiles": [
-    "C/7.2 Pilas, colas y conjuntos con listas.c.md",
-    "C/0. Lenguaje C.c.md",
-    "C/7. Listas enlazadas.c.md",
-    "C/7.2.1 Pilas con listas enlazadas simples.c.md",
     "C/7.2.2 Colas con listas enlazadas simples.c.md",
-    "Python/Programación Orientada a Objetos.py.md",
-    "Python/Calculadora.py.md",
-    "C/7.1.1 Listas enlazadas simples (iterativo).c.md",
-    "C/7.1.2 Listas enlazadas simples (recursivo).c.md",
-    "C/7.1 Listas simples.c.md"
+    "C/0. Lenguaje C.c.md",
+    "C/6. Apuntadores.c.md",
+    "C/6.11 Apuntadores por referencia.c.md",
+    "C/1. Fundamentos de un lenguaje de alto nivel.c.md",
+    "C/2.6.5 Quicksort.c.md",
+    "C/2.6.4 Ordenación por inserción.c.md",
+    "C/7.2 Pilas, colas y conjuntos con listas.c.md",
+    "C/7. Listas enlazadas.c.md",
+    "C/7.2.1 Pilas con listas enlazadas simples.c.md"
   ]
 }
