@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f223372a86ebc605",
+        "id": "768d7a303d39a72c",
         "type": "tabs",
         "children": [
           {
-            "id": "7a427b99e22e8a3d",
+            "id": "b03ce440ce017716",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/6.16 Actividad Arreglo dinamico con apuntaor generico.c.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/6.16 Actividad Arreglo dinamico con apuntaor generico.c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/6.16 Actividad Arreglo dinamico con apuntaor generico.c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C/6.16 Actividad Arreglo dinamico con apuntaor generico.c.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,10 +141,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7a427b99e22e8a3d",
+  "active": "b03ce440ce017716",
   "lastOpenFiles": [
-    "C/6.11 Apuntadores por referencia.c.md",
     "C/6.16 Actividad Arreglo dinamico con apuntaor generico.c.md",
+    "C/6.11 Apuntadores por referencia.c.md",
     "C/7.2.2 Colas con listas enlazadas simples.c.md",
     "C/0. Lenguaje C.c.md",
     "C/6. Apuntadores.c.md",
